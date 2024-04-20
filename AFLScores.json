@@ -1,3 +1,15 @@
 [
-
+  {
+    "gameID": "205E2455-D8E9-47C2-9226-0DDE6DFD76A6",
+    "homeTeamGoals": 16,
+    "homeTeamBehinds": 13,
+    "awayTeamGoals": 10,
+    "awayTeamBehinds": 10,
+    "time": "2024-04-14T16:00:00+10:00",
+    "session": "Final",
+    "homeTeamComments": "",
+    "awayTeamComments": "",
+    "final": true,
+    "situation": "Slow-starting Eagles run wild over wounded Tigers"
+  }
 ]

@@ -1,3 +1,13 @@
 [
-
+  {
+    "gameID": "Unknown",
+    "homeTeamScore": 85,
+    "awayTeamScore": 52,
+    "time": "2024-02-11T08:30:00+10:00",
+    "session": "",
+    "homeTeamComments": "",
+    "awayTeamComments": "",
+    "final": true,
+    "situation": ""
+  }
 ]
