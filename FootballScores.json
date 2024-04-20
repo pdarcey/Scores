@@ -1,3 +1,13 @@
 [
-
+  {
+    "gameID": "C388BD64-1291-4856-955C-AAB9E32CE059",
+    "homeTeamScore": 1,
+    "awayTeamScore": 4,
+    "time": "2024-04-20T10:30:00+10:00",
+    "session": "Final",
+    "homeTeamComments": "",
+    "awayTeamComments": "",
+    "final": true,
+    "situation": "Nerang lost despite dominating most of the match"
+  }
 ]
