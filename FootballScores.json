@@ -1,5 +1,6 @@
 [
   {
+    "type" : "football",
     "gameID": "4A5C83C8-8755-4059-926B-9685CE939FA1",
     "homeTeamScore": 1,
     "awayTeamScore": 7,
@@ -11,6 +12,7 @@
     "situation": "Nerang lost"
   },
   {
+    "type" : "football",
     "gameID": "9120FEFB-28FB-4CD2-9883-1196B7543E10",
     "homeTeamScore": 2,
     "awayTeamScore": 3,
@@ -22,6 +24,7 @@
     "situation": "Nerang lost in a close match"
   },
   {
+    "type" : "football",
     "gameID": "38575002-D9AB-4970-9879-294133F295FE",
     "homeTeamScore": 6,
     "awayTeamScore": 2,
@@ -33,6 +36,7 @@
     "situation": "Nerang won convincingly"
   },
   {
+    "type" : "football",
     "gameID": "6FB03989-B400-42D2-B907-001695BE64E7",
     "homeTeamScore": null,
     "awayTeamScore": null,
@@ -44,6 +48,7 @@
     "situation": "Game postponed"
   },
   {
+    "type" : "football",
     "gameID": "C388BD64-1291-4856-955C-AAB9E32CE059",
     "homeTeamScore": 1,
     "awayTeamScore": 4,

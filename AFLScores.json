@@ -1,5 +1,6 @@
 [
   {
+    "type" : "afl",
     "gameID": "205E2455-D8E9-47C2-9226-0DDE6DFD76A6",
     "homeTeamGoals": 16,
     "homeTeamBehinds": 13,
